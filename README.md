@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### [Live Demo](https://burakcanexe.github.io/Todo-App-with-React)
+
 ## Available Scripts
 
 In the project directory, you can run:
