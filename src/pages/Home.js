@@ -1,12 +1,10 @@
 import React, { useEffect, useState } from 'react'
 import Form from '../components/Form'
 import List from '../components/List'
-import { FaGithub, FaLinkedin, FaMailBulk } from 'react-icons/fa'
+import { FaGithub, FaLinkedin } from 'react-icons/fa'
 import {AiFillMail} from 'react-icons/ai'
 
 function Home() {
-
-
     const [todos, setTodos] = useState([])
 
     useEffect(() => {
